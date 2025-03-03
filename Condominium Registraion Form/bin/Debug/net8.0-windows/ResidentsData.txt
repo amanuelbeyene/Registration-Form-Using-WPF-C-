@@ -1,0 +1,4 @@
+Roza,Beyene,Asosa,Male,11/26/2003 12:00:00 AM,0910716962,014
+Roza,Beyene,Asosa,Male,11/26/2003 12:00:00 AM,0910716962,014
+Roza,Beyene,Asosa,Female,4/26/2003 12:00:00 AM,0910716962,014
+Betelhem,Beyene,Asosa,Female,4/2/2003 12:00:00 AM,0925079040,014

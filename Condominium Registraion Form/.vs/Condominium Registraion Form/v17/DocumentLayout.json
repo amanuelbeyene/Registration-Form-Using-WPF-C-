@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Class\\4 Fourth Year 2017\\First Semster\\Rapid Application Development (RAD)\\Individual Project\\Condominium Registraion Form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02945C0A-FB95-4765-97FC-CEA17A531B33}|Condominium Registraion Form\\Condominium Registraion Form.csproj|d:\\class\\4 fourth year 2017\\first semster\\rapid application development (rad)\\individual project\\condominium registraion form\\condominium registraion form\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02945C0A-FB95-4765-97FC-CEA17A531B33}|Condominium Registraion Form\\Condominium Registraion Form.csproj|solutionrelative:condominium registraion form\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02945C0A-FB95-4765-97FC-CEA17A531B33}|Condominium Registraion Form\\Condominium Registraion Form.csproj|d:\\class\\4 fourth year 2017\\first semster\\rapid application development (rad)\\individual project\\condominium registraion form\\condominium registraion form\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02945C0A-FB95-4765-97FC-CEA17A531B33}|Condominium Registraion Form\\Condominium Registraion Form.csproj|solutionrelative:condominium registraion form\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02945C0A-FB95-4765-97FC-CEA17A531B33}|Condominium Registraion Form\\Condominium Registraion Form.csproj|d:\\class\\4 fourth year 2017\\first semster\\rapid application development (rad)\\individual project\\condominium registraion form\\condominium registraion form\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{02945C0A-FB95-4765-97FC-CEA17A531B33}|Condominium Registraion Form\\Condominium Registraion Form.csproj|solutionrelative:condominium registraion form\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Class\\4 Fourth Year 2017\\First Semster\\Rapid Application Development (RAD)\\Individual Project\\Condominium Registraion Form\\Condominium Registraion Form\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Condominium Registraion Form\\MainWindow.xaml",
+              "ToolTip": "D:\\Class\\4 Fourth Year 2017\\First Semster\\Rapid Application Development (RAD)\\Individual Project\\Condominium Registraion Form\\Condominium Registraion Form\\MainWindow.xaml",
+              "RelativeToolTip": "Condominium Registraion Form\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-04T14:27:41.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Class\\4 Fourth Year 2017\\First Semster\\Rapid Application Development (RAD)\\Individual Project\\Condominium Registraion Form\\Condominium Registraion Form\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Condominium Registraion Form\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Class\\4 Fourth Year 2017\\First Semster\\Rapid Application Development (RAD)\\Individual Project\\Condominium Registraion Form\\Condominium Registraion Form\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Condominium Registraion Form\\MainWindow.xaml.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAUwOIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:27:36.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Class\\4 Fourth Year 2017\\First Semster\\Rapid Application Development (RAD)\\Individual Project\\Condominium Registraion Form\\Condominium Registraion Form\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Condominium Registraion Form\\MainWindow.xaml",
+              "ToolTip": "D:\\Class\\4 Fourth Year 2017\\First Semster\\Rapid Application Development (RAD)\\Individual Project\\Condominium Registraion Form\\Condominium Registraion Form\\MainWindow.xaml",
+              "RelativeToolTip": "Condominium Registraion Form\\MainWindow.xaml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-08T23:42:06.15Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

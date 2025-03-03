@@ -1,0 +1,63 @@
+﻿<Window x:Class="CondominiumRegistrationForm.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Addis Ababa Condominium Registration Form" Height="500" Width="900">
+    <ScrollViewer>
+    <Grid>
+        <!-- two partition -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="2*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- Registration Form -->
+            <!-- firts parition -->
+            <StackPanel Grid.Column="0" Margin="10">
+            <TextBlock Text="Registration Form" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,10"/>
+
+            <Label Content="First Name" />
+            <TextBox Name="FirstNameTextBox" />
+
+            <Label Content="Middle Name" />
+            <TextBox Name="MiddleNameTextBox" />
+
+            <Label Content="Last Name" />
+            <TextBox Name="LastNameTextBox" />
+
+            <Label Content="Gender" />
+            <StackPanel Orientation="Horizontal" Margin="21,0,0,0">
+                <RadioButton Content="Male" GroupName="Gender" Name="MaleRadioButton" />
+                <RadioButton Content="Female" GroupName="Gender" Name="FemaleRadioButton" Margin="17,0,0,0" />
+            </StackPanel>
+
+            <Label Content="Date of Birth" />
+            <DatePicker Name="DateOfBirthPicker" />
+
+            <Label Content="Phone Number" />
+            <TextBox Name="PhoneNumberTextBox" />
+
+            <Label Content="Home Number" />
+            <TextBox Name="HomeNumberTextBox" />
+                
+            <WrapPanel Orientation="Horizontal">
+                <Button Content="Create" Click="CreateButton_Click" Margin="10,10,0,10" Width="70" />
+                <Label> </Label>
+                <Button Content="Update" Click="UpdateButton_Click" Margin="10,10,0,10" Width="70" />
+                <Label></Label>
+                <Button Content="Delete" Click="DeleteButton_Click" Margin="10,10,0,10" Width="70" />
+            </WrapPanel>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="10" Width="258">
+                    <Button x:Name="SaveButtonn" Content="Save" Width="80" Margin="5" Click="SaveToFile" />
+                    <Button x:Name="SaveAsButtonn" Content="Save As" Width="80" Margin="-1,5,5,5" Click="SaveAsToFile" />
+                    <Button x:Name="OpenButton" Content="Open" Width="80" Margin="1,5,5,5" Click="OpenButton_Click" />
+                </StackPanel>
+
+            </StackPanel>
+
+        <!-- second partion -->
+        <DataGrid Name="DataGrid" Grid.Column="1" Margin="10" AutoGenerateColumns="True" IsReadOnly="True"
+                  SelectionChanged="DataGrid_SelectionChanged" />
+    </Grid>
+    </ScrollViewer>
+</Window>

@@ -1,0 +1,57 @@
+C:\Users\yigus\source\repos\Condominium Registraion Form\Condominium Registraion Form\bin\Debug\net8.0-windows\Condominium Registraion Form.exe
+C:\Users\yigus\source\repos\Condominium Registraion Form\Condominium Registraion Form\bin\Debug\net8.0-windows\Condominium Registraion Form.deps.json
+C:\Users\yigus\source\repos\Condominium Registraion Form\Condominium Registraion Form\bin\Debug\net8.0-windows\Condominium Registraion Form.runtimeconfig.json
+C:\Users\yigus\source\repos\Condominium Registraion Form\Condominium Registraion Form\bin\Debug\net8.0-windows\Condominium Registraion Form.dll
+C:\Users\yigus\source\repos\Condominium Registraion Form\Condominium Registraion Form\bin\Debug\net8.0-windows\Condominium Registraion Form.pdb
+C:\Users\yigus\source\repos\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\yigus\source\repos\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\yigus\source\repos\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form_MarkupCompile.cache
+C:\Users\yigus\source\repos\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\yigus\source\repos\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form.g.resources
+C:\Users\yigus\source\repos\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yigus\source\repos\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form.AssemblyInfoInputs.cache
+C:\Users\yigus\source\repos\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form.AssemblyInfo.cs
+C:\Users\yigus\source\repos\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form.csproj.CoreCompileInputs.cache
+C:\Users\yigus\source\repos\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form.dll
+C:\Users\yigus\source\repos\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\refint\Condominium Registraion Form.dll
+C:\Users\yigus\source\repos\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form.pdb
+C:\Users\yigus\source\repos\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form.genruntimeconfig.cache
+C:\Users\yigus\source\repos\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\ref\Condominium Registraion Form.dll
+D:\Class\C#\Assignment\Condominium Registraion Form\Condominium Registraion Form\bin\Debug\net8.0-windows\Condominium Registraion Form.exe
+D:\Class\C#\Assignment\Condominium Registraion Form\Condominium Registraion Form\bin\Debug\net8.0-windows\Condominium Registraion Form.deps.json
+D:\Class\C#\Assignment\Condominium Registraion Form\Condominium Registraion Form\bin\Debug\net8.0-windows\Condominium Registraion Form.runtimeconfig.json
+D:\Class\C#\Assignment\Condominium Registraion Form\Condominium Registraion Form\bin\Debug\net8.0-windows\Condominium Registraion Form.dll
+D:\Class\C#\Assignment\Condominium Registraion Form\Condominium Registraion Form\bin\Debug\net8.0-windows\Condominium Registraion Form.pdb
+D:\Class\C#\Assignment\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Class\C#\Assignment\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Class\C#\Assignment\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\App.g.cs
+D:\Class\C#\Assignment\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form_MarkupCompile.cache
+D:\Class\C#\Assignment\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form.g.resources
+D:\Class\C#\Assignment\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\Class\C#\Assignment\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form.AssemblyInfoInputs.cache
+D:\Class\C#\Assignment\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form.AssemblyInfo.cs
+D:\Class\C#\Assignment\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form.csproj.CoreCompileInputs.cache
+D:\Class\C#\Assignment\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form.dll
+D:\Class\C#\Assignment\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\refint\Condominium Registraion Form.dll
+D:\Class\C#\Assignment\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form.pdb
+D:\Class\C#\Assignment\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form.genruntimeconfig.cache
+D:\Class\C#\Assignment\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\ref\Condominium Registraion Form.dll
+D:\Class\4 Fourth Year 2017\First Semster\Rapid Application Development (RAD)\Individual Project\Condominium Registraion Form\Condominium Registraion Form\bin\Debug\net8.0-windows\Condominium Registraion Form.exe
+D:\Class\4 Fourth Year 2017\First Semster\Rapid Application Development (RAD)\Individual Project\Condominium Registraion Form\Condominium Registraion Form\bin\Debug\net8.0-windows\Condominium Registraion Form.deps.json
+D:\Class\4 Fourth Year 2017\First Semster\Rapid Application Development (RAD)\Individual Project\Condominium Registraion Form\Condominium Registraion Form\bin\Debug\net8.0-windows\Condominium Registraion Form.runtimeconfig.json
+D:\Class\4 Fourth Year 2017\First Semster\Rapid Application Development (RAD)\Individual Project\Condominium Registraion Form\Condominium Registraion Form\bin\Debug\net8.0-windows\Condominium Registraion Form.dll
+D:\Class\4 Fourth Year 2017\First Semster\Rapid Application Development (RAD)\Individual Project\Condominium Registraion Form\Condominium Registraion Form\bin\Debug\net8.0-windows\Condominium Registraion Form.pdb
+D:\Class\4 Fourth Year 2017\First Semster\Rapid Application Development (RAD)\Individual Project\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Class\4 Fourth Year 2017\First Semster\Rapid Application Development (RAD)\Individual Project\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Class\4 Fourth Year 2017\First Semster\Rapid Application Development (RAD)\Individual Project\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\App.g.cs
+D:\Class\4 Fourth Year 2017\First Semster\Rapid Application Development (RAD)\Individual Project\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form_MarkupCompile.cache
+D:\Class\4 Fourth Year 2017\First Semster\Rapid Application Development (RAD)\Individual Project\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form.g.resources
+D:\Class\4 Fourth Year 2017\First Semster\Rapid Application Development (RAD)\Individual Project\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\Class\4 Fourth Year 2017\First Semster\Rapid Application Development (RAD)\Individual Project\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form.AssemblyInfoInputs.cache
+D:\Class\4 Fourth Year 2017\First Semster\Rapid Application Development (RAD)\Individual Project\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form.AssemblyInfo.cs
+D:\Class\4 Fourth Year 2017\First Semster\Rapid Application Development (RAD)\Individual Project\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form.csproj.CoreCompileInputs.cache
+D:\Class\4 Fourth Year 2017\First Semster\Rapid Application Development (RAD)\Individual Project\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form.dll
+D:\Class\4 Fourth Year 2017\First Semster\Rapid Application Development (RAD)\Individual Project\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\refint\Condominium Registraion Form.dll
+D:\Class\4 Fourth Year 2017\First Semster\Rapid Application Development (RAD)\Individual Project\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form.pdb
+D:\Class\4 Fourth Year 2017\First Semster\Rapid Application Development (RAD)\Individual Project\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\Condominium Registraion Form.genruntimeconfig.cache
+D:\Class\4 Fourth Year 2017\First Semster\Rapid Application Development (RAD)\Individual Project\Condominium Registraion Form\Condominium Registraion Form\obj\Debug\net8.0-windows\ref\Condominium Registraion Form.dll
